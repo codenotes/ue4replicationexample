@@ -1,0 +1,11 @@
+*.db
+*.db-wal
+*.ipch
+*.pdb
+*.pch
+*.obj
+*.db-shm
+/Binaries/*
+/Saved/*
+/Intermediate/*
+*.opendb
